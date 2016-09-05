@@ -1,0 +1,20 @@
+[
+	{
+	"id":0,
+	"title":"Beta Battery",
+	"slug":"icon-power",
+	"stackable":false,
+	"dragable":true,
+	"description":"A battery from planet beta that is used to power up beta circuits, this item can be dragged and droped to be used"
+	
+	},
+	{
+	"id":1,
+	"title":"Torch",
+	"slug":"torch",
+	"stackable":false,
+	"dragable":false,
+	"description":"A torch used to light up dark places, right click on it and click use to activate"
+	}
+
+]

@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 9f15db436105c8c4dac18c78159e6d13
+timeCreated: 1467409901
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: X17_Stealth_SpreatSheet_0
+    21300002: X17_Stealth_SpreatSheet_1
+    21300004: X17_Stealth_SpreatSheet_2
+    21300006: X17_Stealth_SpreatSheet_3
+    21300008: X17_Stealth_SpreatSheet_4
+    21300010: X17_Stealth_SpreatSheet_5
+    21300012: X17_Stealth_SpreatSheet_6
+    21300014: X17_Stealth_SpreatSheet_7
+    21300016: X17_Stealth_SpreatSheet_8
+    21300018: X17_Stealth_SpreatSheet_9
+    21300020: X17_Stealth_SpreatSheet_10
+    21300022: X17_Stealth_SpreatSheet_11
+    21300024: X17_Stealth_SpreatSheet_12
+    21300026: X17_Stealth_SpreatSheet_13
+    21300028: X17_Stealth_SpreatSheet_14
+    21300030: X17_Stealth_SpreatSheet_15
+    21300032: X17_Stealth_SpreatSheet_16
+    21300034: X17_Stealth_SpreatSheet_17
+    21300036: X17_Stealth_SpreatSheet_18
+    21300038: X17_Stealth_SpreatSheet_19
+    21300040: X17_Stealth_SpreatSheet_20
+    21300042: X17_Stealth_SpreatSheet_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: X17_Stealth_SpreatSheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1864
+        width: 293
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1864
+        width: 294
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1864
+        width: 295
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1864
+        width: 299
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1864
+        width: 301
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1864
+        width: 298
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1394
+        width: 295
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_7
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1394
+        width: 297
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_8
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1395
+        width: 300
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1395
+        width: 299
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1395
+        width: 301
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1394
+        width: 301
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 867
+        width: 300
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 867
+        width: 299
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_14
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 867
+        width: 302
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 868
+        width: 300
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 869
+        width: 292
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 869
+        width: 289
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 288
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_19
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 350
+        width: 289
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_20
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 342
+        width: 291
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X17_Stealth_SpreatSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 344
+        width: 293
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
